@@ -5,3 +5,5 @@
 5) git commit -m "message" -> this command make ready to push 
 6) git push -u origin main -> used to push into the githun repo
 7) git branch -M main -> used to change the branch name
+
+some changes had been done here
